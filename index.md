@@ -9,3 +9,4 @@
 
 - GitHub: [theorem-prover-kt](https://github.com/boitsov14/theorem-prover-kt)
 - Twitter bot: [@sequent_bot](https://twitter.com/sequent_bot)
+- [進捗報告](https://zenn.dev/boitsov14/scraps/08dc51759905af)
