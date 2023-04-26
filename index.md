@@ -8,5 +8,6 @@
 # Sequent bot
 
 - GitHub: [theorem-prover-kt](https://github.com/boitsov14/theorem-prover-kt)
+- [Demo site](https://boitsov14.github.io/web-prover/)
 - Twitter bot: [@sequent_bot](https://twitter.com/sequent_bot)
 - [進捗報告](https://zenn.dev/boitsov14/scraps/08dc51759905af)
